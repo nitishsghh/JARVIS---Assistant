@@ -1,5 +1,6 @@
 We'll try to implement all these in our project 📌🙌
-
+## Deploy 
+** https://jarvish-assistant.netlify.app **
 
 1. Translation: Seamlessly translates Hindi to English.
 2. Face Authentication: Provides secure access through facial recognition.
